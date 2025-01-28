@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I like to write in <b>Javascript</b> Code and I'm a full stack developer </samp></h4>
+<h4 align="center"><samp> Welcome to my GitHub! I like to write in <b>Javascript</b> and <b>Python</b> code and I'm a full stack developer. </samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/8l98VVUTKPhbG/giphy.gif">
