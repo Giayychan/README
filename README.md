@@ -1,7 +1,7 @@
 <h4 align="center"><samp> Welcome to my GitHub! I like to write in <b>Javascript</b> and <b>Python</b> code and I'm a full stack developer. </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/8l98VVUTKPhbG/giphy.gif">
+  <img width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZiNmZteDljdjE5MjNvc3EzZnJra2RyYjJ0M2o0ZXVraWNlaDd6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif">
 </p>
 
 <p align="center"><samp>
